@@ -1,2 +1,14 @@
-# CanSat
-CanSat Satellite Design
+![image](https://github.com/Ohara124c41/CanSat/blob/master/CanSat%20Project%20Guide/CanSat%20Project%20Guide-01.jpg?raw=true)
+![image](https://github.com/Ohara124c41/CanSat/blob/master/CanSat%20Project%20Guide/CanSat%20Project%20Guide-02.jpg?raw=true)
+![image](https://github.com/Ohara124c41/CanSat/blob/master/CanSat%20Project%20Guide/CanSat%20Project%20Guide-03.jpg?raw=true)
+![image](https://github.com/Ohara124c41/CanSat/blob/master/CanSat%20Project%20Guide/CanSat%20Project%20Guide-04.jpg?raw=true)
+![image](https://github.com/Ohara124c41/CanSat/blob/master/CanSat%20Project%20Guide/CanSat%20Project%20Guide-05.jpg?raw=true)
+![image](https://github.com/Ohara124c41/CanSat/blob/master/CanSat%20Project%20Guide/CanSat%20Project%20Guide-06.jpg?raw=true)
+![image](https://github.com/Ohara124c41/CanSat/blob/master/CanSat%20Project%20Guide/CanSat%20Project%20Guide-07.jpg?raw=true)
+![image](https://github.com/Ohara124c41/CanSat/blob/master/CanSat%20Project%20Guide/CanSat%20Project%20Guide-08.jpg?raw=true)
+![image](https://github.com/Ohara124c41/CanSat/blob/master/CanSat%20Project%20Guide/CanSat%20Project%20Guide-09.jpg?raw=true)
+![image](https://github.com/Ohara124c41/CanSat/blob/master/CanSat%20Project%20Guide/CanSat%20Project%20Guide-10.jpg?raw=true)
+![image](https://github.com/Ohara124c41/CanSat/blob/master/CanSat%20Project%20Guide/CanSat%20Project%20Guide-11.jpg?raw=true)
+![image](https://github.com/Ohara124c41/CanSat/blob/master/CanSat%20Project%20Guide/CanSat%20Project%20Guide-12.jpg?raw=true)
+![image](https://github.com/Ohara124c41/CanSat/blob/master/CanSat%20Project%20Guide/CanSat%20Project%20Guide-13.jpg?raw=true)
+![image](https://github.com/Ohara124c41/CanSat/blob/master/CanSat%20Project%20Guide/CanSat%20Project%20Guide-14.jpg?raw=true)
