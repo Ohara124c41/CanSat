@@ -21,15 +21,15 @@ void setup() {
   Wire.begin();
   Wire.beginTransmission(MPU_6050_addr);
   Wire.write(PWR_MGMT_1);
-  Wire.write(0);
+  Wire.write(0); // sending a zero wakes up the sensor
   Wire.endTransmission();
   Wire.beginTransmission(MPU_6050_addr);
   Wire.write(ACCEL_CONFIG);
-  Wire.write(0x10);
+  Wire.write(0x10); // setting the acceleration full scale range to +/- 8g
   Wire.endTransmission();
   Wire.beginTransmission(MPU_6050_addr);
   Wire.write(GYRO_CONFIG);
-  Wire.write(0x08);
+  Wire.write(0x08); // setting the gyro full scale to +/- 250 deg/s
   Wire.endTransmission();
   Serial.begin(9600);
 }
@@ -37,9 +37,9 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   Wire.beginTransmission(MPU_6050_addr);
-  Wire.write(ACCEL_XOUT_H);
+  Wire.write(ACCEL_XOUT_H); // register
   Wire.endTransmission();
-  Wire.requestFrom(MPU_6050_addr, 14);
+  Wire.requestFrom(MPU_6050_addr, 14); // requesting 8 bytes from the MPU-6050
   MPU_6050_AccX = Wire.read() << 8 | Wire.read();
   MPU_6050_AccY = Wire.read() << 8 | Wire.read();
   MPU_6050_AccZ = Wire.read() << 8 | Wire.read();
